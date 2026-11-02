@@ -12,7 +12,5 @@ This assignment focused on setting up local developer tools, writing a first Pyt
    - Created and tested `hello.py` to print `"Hello World"` to the console.
 
 3. **Peer Review & GitHub Issues:**
-   - Reviewed classmates' personal websites and opened constructive feedback issues:
-     - Issue 1 (Natasha): [הדבק כאן קישור ל-Issue שפתחת אצל נטשה]
-     - Issue 2 (Shahar): [הדבק כאן קישור ל-Issue שפתחת אצל שחר]
+   - Reviewed classmates' personal websites and opened constructive feedback issues.
    - Addressed and closed incoming issues on my own website repository.
