@@ -1,2 +1,1 @@
-# course-assignments
-Python with AI
+print("Hello World")
